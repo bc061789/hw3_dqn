@@ -1,8 +1,3 @@
----
-title: HW3 DQN and its variants
-
----
-
 # HW3 DQN and its variants
 ## 3-1 Naive DQN  for static mode
 1. ### 啟動前備忘錄
